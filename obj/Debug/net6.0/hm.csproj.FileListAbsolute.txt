@@ -1,0 +1,15 @@
+D:\GB обучение\Разработчик\lastwork\hm\bin\Debug\net6.0\hm.exe
+D:\GB обучение\Разработчик\lastwork\hm\bin\Debug\net6.0\hm.deps.json
+D:\GB обучение\Разработчик\lastwork\hm\bin\Debug\net6.0\hm.runtimeconfig.json
+D:\GB обучение\Разработчик\lastwork\hm\bin\Debug\net6.0\hm.dll
+D:\GB обучение\Разработчик\lastwork\hm\bin\Debug\net6.0\hm.pdb
+D:\GB обучение\Разработчик\lastwork\hm\obj\Debug\net6.0\hm.csproj.AssemblyReference.cache
+D:\GB обучение\Разработчик\lastwork\hm\obj\Debug\net6.0\hm.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB обучение\Разработчик\lastwork\hm\obj\Debug\net6.0\hm.AssemblyInfoInputs.cache
+D:\GB обучение\Разработчик\lastwork\hm\obj\Debug\net6.0\hm.AssemblyInfo.cs
+D:\GB обучение\Разработчик\lastwork\hm\obj\Debug\net6.0\hm.csproj.CoreCompileInputs.cache
+D:\GB обучение\Разработчик\lastwork\hm\obj\Debug\net6.0\hm.dll
+D:\GB обучение\Разработчик\lastwork\hm\obj\Debug\net6.0\refint\hm.dll
+D:\GB обучение\Разработчик\lastwork\hm\obj\Debug\net6.0\hm.pdb
+D:\GB обучение\Разработчик\lastwork\hm\obj\Debug\net6.0\hm.genruntimeconfig.cache
+D:\GB обучение\Разработчик\lastwork\hm\obj\Debug\net6.0\ref\hm.dll
